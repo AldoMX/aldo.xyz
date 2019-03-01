@@ -41,8 +41,8 @@ function Bio() {
               (This bio was left intentionally unchanged)
             </p>
             <p>
-              Written by <strong>{author}</strong> who lives and works in
-              Mexico City building useful things.
+              Written by <strong>{author}</strong> who lives and works in Mexico
+              City building useful things.
             </p>
           </div>
         )
