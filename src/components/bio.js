@@ -42,7 +42,7 @@ function Bio() {
             </p>
             <p>
               Written by <strong>{author}</strong> who lives and works in Mexico
-              City building useful things.
+              City building <s>useful</s> things.
             </p>
           </div>
         )
