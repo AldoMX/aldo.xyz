@@ -1,21 +1,25 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello, World!
+date: 2019-03-01T02:38:59Z
+description: ""
 ---
 
-This is my first post on my new fake blog! How exciting!
+I just installed the [Blog Starter][1] from [Gatsby][2].
 
-I'm sure I'll write a lot more interesting things in the future.
+I'll treat this blog as an anything-goes blog and I'll be dumping random
+thoughts that do not fit the format of Facebook or Twitter.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+The only consistency you can expect from this blog is inconsistency,
+sometimes I'll be posting stuff about development in English, sometimes I'll be
+posting stuff about rhythm games in Spanish and maybe someday I'll post
+something in Mandarin because why not? hahahaha. I would love to translate
+everything I write, but as you can notice from the barebones install I'm just
+going for the basics.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Maybe someday I'll organize these random thoughts into a proper blog, well,
+actually I'll definitely separate and translate the stuff about my upcoming
+[rhythm game][3] whenever the time comes to build the official website.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+[1]: https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/
+[2]: https://www.gatsbyjs.org/
+[3]: https://www.facebook.com/umania.amx
